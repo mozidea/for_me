@@ -1,5 +1,8 @@
-rules:
-  # 代理列表
+payload:
+  # 广告列表 adblock rules
+  # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
+  # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
+  # 更新：2021-01-22 23:43:39
+  # 数量：2818条
 
-  # MyList && Other
   - DOMAIN-SUFFIX,bybit.com
